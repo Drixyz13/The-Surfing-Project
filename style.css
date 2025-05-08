@@ -1,0 +1,8 @@
+/* style.css */
+.hero {
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e'); /* Tu peux changer l'image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
